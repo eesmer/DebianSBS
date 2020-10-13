@@ -10,7 +10,7 @@ You can manage your network by installing this roles and using this environment 
 - Setting up and managing the FileServer service (samba) continues yet
 
 ## Requirements
-It works in Debian10 environment(Debian10). Desktop environment is not required.
+It works in Debian environment(Debian10). Desktop environment is not required.
 
 ## Installation and Usage
 ```sh
