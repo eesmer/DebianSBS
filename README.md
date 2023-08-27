@@ -14,7 +14,9 @@ It works in Debian environment(Debian10). Desktop environment is not required.
 
 ## Installation and Usage
 ```sh
-$ wget https://raw.githubusercontent.com/eesmer/DebianSBS/main/debiansbs.sh
-$ bash debiansbs.sh
+wget https://raw.githubusercontent.com/eesmer/DebianSBS/main/debiansbs.sh
+```
+```sh
+bash debiansbs.sh
 ```
 Use DebianSBS with root user
