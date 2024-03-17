@@ -1,3 +1,6 @@
+
+![alt text](images/DebianSBS-Logo.png "DebianSBS")
+
 # DebianSBS
 #### Debian Small Business Server
 
