@@ -1,6 +1,6 @@
 
 # DebianSBS
-#### Debian Simple Box Setup
+#### Debian Small Business Server
 
 It provides a text interface for managing major roles in the network environment from a single server.<br>
 You can manage your network by installing this roles and using this environment for settings.<br>
